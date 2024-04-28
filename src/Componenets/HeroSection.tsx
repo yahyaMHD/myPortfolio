@@ -3,7 +3,7 @@ import Particle from "./Particle";
 import TextEffect from "./TextEffect";
 
 const bannerImage = require("../assets/images/banner.jpg");
-const user = require("../assets/images/about.jpg");
+const user = require("../assets/images/hero.jpeg");
 const HeroSection = () => {
   return (
     <div
@@ -18,10 +18,7 @@ const HeroSection = () => {
           </h1>
           <TextEffect />
           <p className="mt-[2rem] text-[20px] text-[#ffffff92]">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit,
-            eligendi laboriosam cum odio doloremque porro perspiciatis. Nisi
-            dolor quam veniam id repudiandae deserunt iure minus, eius esse
-            dolore laudantium sequi.
+          Share your vision with me, and together we'll create digital solutions that not only meet but exceed your expectations.
           </p>
         </div>
         <div className="w-[500px] lg:flex hidden bg-[#55e6a5] rounded-full h-[500px] z-[10000]">

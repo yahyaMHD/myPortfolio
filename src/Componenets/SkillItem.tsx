@@ -15,9 +15,7 @@ const SkillItem = ({ year, title }: Props) => {
         {title}
       </h1>
       <p className="text-[#aaaaaa] font-normal w-[80%] text-[17px] opacity-80" >  
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos
-        praesentium quisquam harum excepturi nihil reiciendis deleniti debitis
-        possimus, magni earum.
+      React Native is an open-source framework for building native apps using React. It allows for cross-platform development with a single JavaScript codebase, i started with react native in the beginning og the 2024
       </p>
     </div>
   );
